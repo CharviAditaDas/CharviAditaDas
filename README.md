@@ -44,7 +44,7 @@ class CharviaditaDas:
     }
     
     currently   = "Building a real-time AI-driven analytics system on 60K+ e-commerce records"
-    status      = "Open to Business Analyst / Data Analyst Internships "
+    status      = "Open to Business Analyst / Data Analyst Internships 🚀"
     
     def get_philosophy(self):
         return "I don't just analyse data — I translate it into strategic recommendations."
@@ -60,26 +60,26 @@ class CharviaditaDas:
 
 <div align="center">
 
-##  &nbsp; Tech Stack & Core Competencies
+## ⚡ &nbsp; Tech & Business Skills
 
-― **Query & Programming** ―
+**― Query & Programming ―**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-― **Business Intelligence & Visualisation** ―
+**― Business Intelligence & Visualisation ―**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-― **Data Skills** ―
+**― Data Skills ―**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-00D4FF?style=for-the-badge)
 ![Dashboarding](https://img.shields.io/badge/Dashboarding%20%26%20Reporting-7B2FFF?style=for-the-badge)
 
-― **Business & Analytical Skills** ―
+**― Business & Analytical Skills ―**
 
 ![KPI](https://img.shields.io/badge/KPI%20Analysis%20%26%20Tracking-ff006e?style=for-the-badge)
 ![Requirements](https://img.shields.io/badge/Requirement%20Gathering-00D4FF?style=for-the-badge)
@@ -93,76 +93,196 @@ class CharviaditaDas:
 
 <div align="center">
 
-##  &nbsp; Featured Projects
+## 🚀 &nbsp; Featured Projects
+
+</div>
+
+### 🤖 Real-Time AI-Driven Business Analysis
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-ff9500?style=flat-square)
+![Records](https://img.shields.io/badge/Records-60%2C000%2B-00D4FF?style=flat-square)
+![Type](https://img.shields.io/badge/Type-E--Commerce%20Analytics-7B2FFF?style=flat-square)
+
+> *Production-grade analytics system turning raw e-commerce data into live, actionable KPIs.*
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│   RAW DATA (60K+ rows)  ──►  SQL + Python Pipeline                  │
+│                                      │                               │
+│                                      ▼                               │
+│                             Data Cleaning & EDA                      │
+│                                      │                               │
+│                         ┌────────────┴────────────┐                 │
+│                         ▼                         ▼                 │
+│                   KPI Dashboard            Churn Signals            │
+│                  (Power BI / Live)      Revenue & Conversion         │
+│                         │                         │                 │
+│                         └────────────┬────────────┘                 │
+│                                      ▼                               │
+│                        Strategic Business Recommendations            │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+**What it does:**
+- 📊 Analyses customer behaviour across 60K+ transactions
+- 🎯 Real-time KPI dashboard built for business decision-makers
+- 🔍 Revenue trend, churn signal & conversion driver analysis
+- 🧠 Pattern identification using SQL + Python pipelines
+
+`Python` `SQL` `Pandas` `Power BI` `Data Visualisation`
+
+---
+
+### 🧠 Smart Resume Analyser
+
+![Status](https://img.shields.io/badge/Status-Complete-00ff88?style=flat-square)
+![Type](https://img.shields.io/badge/Type-NLP%20%7C%20Python-7B2FFF?style=flat-square)
+
+> *Bridges the gap between candidates and job requirements through data.*
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│   INPUT: Raw CV / PDF                                                │
+│          │                                                           │
+│          ▼                                                           │
+│   [ Keyword Extraction Engine ]  ◄── Industry Job Descriptions      │
+│          │                                                           │
+│          ▼                                                           │
+│   [ Skill Gap Mapping ]  ──►  Missing Skills Identified             │
+│          │                                                           │
+│          ▼                                                           │
+│   [ Recommendation Engine ]                                          │
+│          │                                                           │
+│          ▼                                                           │
+│   OUTPUT: Structured Career Insights + Match Score                   │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+**What it does:**
+- 🔑 Keyword extraction engine aligned to industry JDs
+- 📌 Skill gap identification with actionable recommendations
+- 💡 Converts unstructured text into structured career insights
+- ⚡ Significantly reduces manual CV screening effort
+
+`Python` `NLP` `Pandas` `Keyword Extraction` `Text Analysis`
+
+---
+
+### 🌦️ Weather Data Dashboard
+
+![Status](https://img.shields.io/badge/Status-Complete-00ff88?style=flat-square)
+![Type](https://img.shields.io/badge/Type-Data%20Visualisation-E97627?style=flat-square)
+
+> *Makes global climate data understandable and interactive.*
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│                                                                      │
+│   Multi-Year Global Dataset                                          │
+│          │                                                           │
+│          ▼                                                           │
+│   [ Data Cleaning & Transformation ]  ──►  Python / Excel           │
+│          │                                                           │
+│          ▼                                                           │
+│   [ Pattern Recognition & Trend Analysis ]                           │
+│          │                                                           │
+│    ┌─────┴──────┐                                                    │
+│    ▼            ▼                                                    │
+│  Tableau     Power BI                                                │
+│  Dashboard   Dashboard                                               │
+│    │            │                                                    │
+│    └─────┬──────┘                                                    │
+│          ▼                                                           │
+│   Interactive Climate Storytelling                                   │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+**What it does:**
+- 🌍 Analyses multi-year global weather datasets
+- 📈 Trend identification and pattern recognition
+- 🎨 Interactive storytelling through data visualisation
+- 🧹 End-to-end data cleaning & transformation pipeline
+
+`Tableau` `Power BI` `Excel` `Python` `Data Cleaning`
+
+---
+
+### 📁 Coming Soon
+
+![Status](https://img.shields.io/badge/Status-Building-7B2FFF?style=flat-square)
+
+Currently exploring:
+- 📦 **E-commerce Sales Dashboard** — Power BI end-to-end
+- 🏦 **Financial KPI Tracker** — SQL + Excel + Tableau
+- 🤖 **GenAI + Business Analysis** — Prompt-to-insight pipeline
+
+> ⭐ Star this profile to stay updated
+
+---
+
+<div align="center">
+
+## 💼 &nbsp; Professional Experience
 
 </div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="8%" align="center">🎓</td>
+<td>
 
-###  Real-Time AI-Driven Business Analysis
-![Status](https://img.shields.io/badge/Status-In%20Progress-ff9500?style=flat-square)
-![Records](https://img.shields.io/badge/Records-60%2C000%2B-00D4FF?style=flat-square)
+**Student Coordinator — Career Services Division**
+`BITS Pilani Dubai` &nbsp;&nbsp; ![Duration](https://img.shields.io/badge/Sep%202024–Present-00D4FF?style=flat-square)
 
-The challenge: Build a production-grade analytics system that turns raw e-commerce data into live, actionable KPIs.
+*Driving end-to-end placement operations for a top-tier engineering institution in Dubai — where data, people, and process meet.*
 
--  Analysing customer behaviour across 60K+ transactions
--  Real-time KPI dashboard for business decision-makers
--  Revenue trend, churn signal & conversion driver analysis
--  Identifying patterns with SQL + Python pipelines
-
-`Python` `SQL` `Pandas` `Power BI` `Data Visualisation`
-
-</td>
-<td width="50%" valign="top">
-
-###  Smart Resume Analyser
-![Status](https://img.shields.io/badge/Status-Complete-00ff88?style=flat-square)
-![Type](https://img.shields.io/badge/Type-NLP%20%7C%20Python-7B2FFF?style=flat-square)
-
-The challenge: Bridge the gap between candidates and job requirements through data.
-
--  Keyword extraction engine aligned to industry JDs
--  Skill gap identification with actionable recommendations
--  Unstructured text → structured career insights
--  Reduced manual CV screening effort significantly
-
-`Python` `NLP` `Pandas` `Keyword Extraction` `Text Analysis`
+- Managed data handling, process coordination, and stakeholder communication for **500+ students**
+- Primary liaison between students and employers — ensured smooth execution of recruitment cycles
+- Led employability workshops focused on analytical reasoning and professional readiness
+- Balanced real-time issue resolution with long-term process optimisation
 
 </td>
 </tr>
+</table>
+
+<br/>
+
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="8%" align="center">📋</td>
+<td>
 
-###  Weather Data Dashboard
-![Status](https://img.shields.io/badge/Status-Complete-00ff88?style=flat-square)
-![Type](https://img.shields.io/badge/Type-Data%20Visualisation-E97627?style=flat-square)
+**Core Team Member — Career Fair**
+`BITS Pilani Dubai` &nbsp;&nbsp; ![Duration](https://img.shields.io/badge/Jan%202025%20·%20Apr%202025%20·%20Jan%202026-7B2FFF?style=flat-square)
 
-The challenge: Make global climate data understandable and interactive.
+*Orchestrated large-scale recruitment events from logistics to stakeholder engagement — three consecutive fairs.*
 
--  Analysed multi-year global weather datasets
--  Trend identification and pattern recognition
--  Interactive storytelling through data visualisation
--  End-to-end data cleaning & transformation pipeline
-
-`Tableau` `Power BI` `Excel` `Python` `Data Cleaning`
+- Coordinated with **50+ recruiters** and internal teams for seamless career fair execution
+- Managed end-to-end event logistics and drove multi-stakeholder engagement strategy
 
 </td>
-<td width="50%" valign="top">
+</tr>
+</table>
 
-###  More Coming Soon...
-![Status](https://img.shields.io/badge/Status-Building-7B2FFF?style=flat-square)
+<br/>
 
-Currently exploring:
+<table>
+<tr>
+<td width="8%" align="center">📣</td>
+<td>
 
--  E-commerce Sales Dashboard — Power BI end-to-end
--  Financial KPI Tracker — SQL + Excel + Tableau
--  GenAI + Business Analysis — Prompt-to-insight pipeline
+**PR Team Member — BITS Sports Festival (BSF 2024)**
+`BITS Pilani Dubai` &nbsp;&nbsp; ![Duration](https://img.shields.io/badge/2024-ff006e?style=flat-square)
 
-*Watch this space — new projects drop regularly!*
+*Data-led communications in a high-pressure, high-visibility environment.*
 
- **Star this profile to stay updated**
+- Tracked and analysed engagement data to evaluate outreach campaign effectiveness
+- Coordinated communication and event execution under tight deadlines
 
 </td>
 </tr>
@@ -172,57 +292,46 @@ Currently exploring:
 
 <div align="center">
 
-##  &nbsp; Professional Experience
+## 🏭 &nbsp; Industry Exposure
 
 </div>
 
-** Student Coordinator — Career Services Division, BITS Pilani Dubai** &nbsp;&nbsp; `Sep 2024 – Present`
+<table>
+<tr>
+<td width="50%" align="center">
 
-> Driving end-to-end placement operations for a top-tier engineering institution in Dubai
+### 🛢️ ADIPEC
+![Focus](https://img.shields.io/badge/Energy%20%26%20Industrial%20Operations-ff9500?style=for-the-badge)
 
-- Managed data handling, process coordination, and stakeholder communication for 500+ students
-- Primary liaison between students and employers — ensured smooth execution of recruitment cycles
-- Led employability workshops focused on analytical reasoning and professional readiness
-- Balanced real-time issue resolution with long-term process optimisation
+*Abu Dhabi International Petroleum Exhibition & Conference*
 
----
+Immersed in enterprise-scale business environments, gaining firsthand insight into how data and analytics drive decision-making across global energy and industrial sectors.
 
-** Core Team Member — Career Fair, BITS Pilani Dubai** &nbsp;&nbsp; `Jan 2025 · Apr 2025 · Jan 2026`
+**Key Takeaway:** Understanding how top-tier enterprises structure and operationalise data at scale.
 
-> Orchestrated large-scale recruitment events from logistics to stakeholder engagement
+</td>
+<td width="50%" align="center">
 
-- Coordinated with 50+ recruiters and internal teams for seamless career fair execution
-- Managed end-to-end event logistics and drove multi-stakeholder engagement strategy
+### 🤝 FUNC1 Dubai
+![Focus](https://img.shields.io/badge/Professional%20Networking-00D4FF?style=for-the-badge)
 
----
+*Dubai's Premier Professional Networking Event*
 
-** PR Team Member — BITS Sports Festival (BSF 2024)** &nbsp;&nbsp; `2024`
+Engaged with industry leaders, hiring managers, and peers — building a concrete understanding of market expectations, emerging skill demands, and career strategy in the UAE job landscape.
 
-> Data-led communications in a high-pressure, high-visibility environment
+**Key Takeaway:** Bridging the gap between academic learning and real-world business expectations.
 
-- Tracked and analysed engagement data to evaluate outreach campaign effectiveness
-- Coordinated communication and event execution under tight deadlines
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-##  &nbsp; Industry Exposure
+## 📜 &nbsp; Certifications
 
-| Event | Focus Area | Key Takeaway |
-|---|---|---|
-|  ADIPEC | Energy & Industrial Operations | Enterprise-scale business environments & sector dynamics |
-|  FUNC1 Dubai | Professional Networking | Market expectations, industry trends & career navigation |
-
-</div>
-
----
-
-<div align="center">
-
-##  &nbsp; Certifications
-
-|  Certificate |  Issuer |  Credential |
+| 🏅 Certificate | 🏢 Issuer | 🔗 Credential |
 |---|---|---|
 | Google Data Analytics Professional Certificate | Coursera | [View ↗](https://www.coursera.org) |
 | Data Analytics Job Simulation | Deloitte (Forage) | [View ↗](https://www.theforage.com) |
@@ -238,7 +347,7 @@ Currently exploring:
 
 <div align="center">
 
-##  &nbsp; GitHub Analytics
+## 📊 &nbsp; GitHub Analytics
 
 <br/>
 
@@ -255,7 +364,7 @@ Currently exploring:
 
 <div align="center">
 
-##  &nbsp; GitHub Trophies
+## 🏆 &nbsp; GitHub Trophies
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=CharviAditaDas&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4)
 
@@ -265,21 +374,21 @@ Currently exploring:
 
 <div align="center">
 
-##  &nbsp; Achievements & Highlights
+## 🏅 &nbsp; Achievements & Highlights
 
 </div>
 
--  Represented BITS Pilani at intercollegiate tech & entrepreneurship events
--  Participated in data challenges and innovation hackathons
--  Game Developer Certification — WhiteHat Jr (Live Online Coding)
--  Managed real-time analytics on 60,000+ records in a live production project
--  Contributed to 3 consecutive Career Fairs at BITS Pilani Dubai (2025–2026)
+- 🥇 Represented BITS Pilani at intercollegiate tech & entrepreneurship events
+- 💡 Participated in data challenges and innovation hackathons
+- 🎮 Game Developer Certification — WhiteHat Jr (Live Online Coding)
+- 📈 Managed real-time analytics on 60,000+ records in a live production project
+- 🤝 Contributed to 3 consecutive Career Fairs at BITS Pilani Dubai (2025–2026)
 
 ---
 
 <div align="center">
 
-##  &nbsp; Value Proposition
+## 💡 &nbsp; Value Proposition
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
@@ -298,7 +407,7 @@ Currently exploring:
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
-##  &nbsp; Languages &nbsp;|&nbsp; Availability
+## 🌍 &nbsp; Languages &nbsp;|&nbsp; Availability
 
 **English** (Fluent) &nbsp;•&nbsp; **Hindi** (Native)
 
@@ -310,9 +419,9 @@ Currently exploring:
 
 <br/>
 
-###  &nbsp; Let's Connect
+### 📬 &nbsp; Let's Connect
 
-*Actively seeking Business Analyst / Data Analyst internship opportunities.*
+*Actively seeking Business Analyst / Data Analyst internship opportunities.*  
 *If you're building something data-driven and need someone who turns numbers into strategy — let's talk.*
 
 <br/>
@@ -325,4 +434,3 @@ Currently exploring:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2fff,50:00d4ff,100:ff006e&height=140&section=footer&text=Let%27s%20build%20something%20impactful&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
-
