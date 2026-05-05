@@ -62,24 +62,24 @@ class CharviaditaDas:
 
 ##  &nbsp; Tech Stack & Core Competencies
 
-― Query & Programming ―
+― **Query & Programming** ―
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-― Business Intelligence & Visualisation ―
+― **Business Intelligence & Visualisation** ―
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-― Data Skills ―
+― **Data Skills** ―
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning%20%26%20Transformation-00D4FF?style=for-the-badge)
 ![Dashboarding](https://img.shields.io/badge/Dashboarding%20%26%20Reporting-7B2FFF?style=for-the-badge)
 
-― Business & Analytical Skills ―
+― **Business & Analytical Skills** ―
 
 ![KPI](https://img.shields.io/badge/KPI%20Analysis%20%26%20Tracking-ff006e?style=for-the-badge)
 ![Requirements](https://img.shields.io/badge/Requirement%20Gathering-00D4FF?style=for-the-badge)
