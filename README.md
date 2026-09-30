@@ -1,179 +1,160 @@
-Charvi Adita Das
+<div align="center">
 
-Business Analyst · Data Analytics · Business Intelligence
+# Charvi Adita Das
 
-I work at the intersection of business analysis, data, and technology — using SQL, Python, BI tools, and AI-assisted workflows to turn complex data into practical business insights.
+**Business Analyst · Data Analytics · Business Intelligence**
 
-Based in Dubai, UAE · B.E. Computer Science, BITS Pilani Dubai · 2024–2028
+Turning complex data into practical business insights with SQL, Python, BI tools, and AI-assisted workflows.
 
-LinkedIn · Email
+Dubai, UAE · B.E. Computer Science, BITS Pilani Dubai (2024–2028)
 
-What I Work With
+[LinkedIn](https://www.linkedin.com/in/charviaditadas) · [Email](mailto:charviaditadas@gmail.com)
 
-Business Analysis
+</div>
 
-Data & Analytics
+<br>
 
-BI & Visualisation
+## About
 
-AI & Automation
+I work at the intersection of business analysis, data, and technology. My work spans KPI analysis, data cleaning and transformation, dashboard development, and AI-assisted insight generation, complemented by hands-on stakeholder coordination through the Career Services Division at BITS Pilani Dubai.
 
-KPI Analysis
+## Core Capabilities
 
-Python
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>Business Analysis</b><br>
+      KPI analysis<br>
+      Requirement gathering<br>
+      Stakeholder communication<br>
+      Process optimisation<br>
+      KPI reporting
+    </td>
+    <td valign="top" width="50%">
+      <b>Data &amp; Analytics</b><br>
+      SQL<br>
+      Python · Pandas<br>
+      Advanced Excel<br>
+      Data cleaning &amp; transformation<br>
+      Data analysis
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <b>BI &amp; Visualisation</b><br>
+      Power BI<br>
+      Tableau<br>
+      Dashboard development
+    </td>
+    <td valign="top" width="50%">
+      <b>AI &amp; Automation</b><br>
+      GenAI prompting<br>
+      LLM-powered workflows<br>
+      AI-assisted analysis
+    </td>
+  </tr>
+</table>
 
-Power BI
+## Selected Projects
 
-GenAI Prompting
+### Real-Time AI-Driven Business Analysis Engine
+*Python · SQL · Pandas · Power BI · Data Visualisation · GenAI*
 
-Requirement Gathering
+An in-progress analytics project that transforms 60,000+ e-commerce records into business-focused KPIs and insights.
 
-SQL
+- Data cleaning and transformation across a large transaction dataset
+- KPI reporting and dashboard development
+- Revenue, churn-signal, and conversion-driver analysis
+- AI-assisted generation of narrative business insights
 
-Tableau
+### Smart Resume Analyser
+*Python · NLP · Pandas · Keyword Extraction · Text Analysis*
 
-LLM-powered workflows
+A career-intelligence tool that converts unstructured CV information into structured insights aligned with job requirements.
 
-Stakeholder Communication
+- Extracts relevant keywords from resumes and job descriptions
+- Identifies skill gaps
+- Produces structured career insights and recommendations
+- Designed to reduce manual effort in CV screening
 
-Pandas
+### Interactive Global Weather Intelligence Dashboard
+*Tableau · Power BI · Excel · Python · Data Cleaning*
 
-Advanced Excel
+An interactive visualisation project that turns multi-year global weather data into an accessible analytical story for non-technical users.
 
-AI-assisted analysis
+- Cleaned and standardised multi-year datasets
+- Identified trends and seasonal anomalies
+- Built interactive visual storytelling dashboards
+- Developed an end-to-end data preparation workflow
 
-Data Cleaning & Transformation
+## Experience
 
-Data Analysis
-
-Dashboarding
-
-—
-
-Featured Work
-
-Real-Time AI-Driven Business Analysis Engine
-
-Python · SQL · Pandas · Power BI · Data Visualisation · GenAI
-
-An in-progress analytics project focused on transforming 60,000+ e-commerce records into business-focused KPIs and insights.
-
-Data cleaning and transformation across a large transaction dataset
-
-KPI reporting and dashboard development
-
-Revenue, churn-signal, and conversion-driver analysis
-
-AI-assisted generation of narrative business insights
-
-Smart Resume Analyser
-
-Python · NLP · Pandas · Keyword Extraction · Text Analysis
-
-A career-intelligence tool designed to convert unstructured CV information into structured insights aligned with job requirements.
-
-Extracts relevant keywords from resumes and job descriptions
-
-Identifies skill gaps
-
-Produces structured career insights and recommendations
-
-Designed to reduce manual effort in CV screening
-
-Interactive Global Weather Intelligence Dashboard
-
-Tableau · Power BI · Excel · Python · Data Cleaning
-
-An interactive visualisation project that transforms multi-year global weather data into an accessible analytical story for non-technical users.
-
-Cleaned and standardised multi-year datasets
-
-Identified trends and seasonal anomalies
-
-Built interactive visual storytelling dashboards
-
-Developed an end-to-end data preparation workflow
-
-Experience
-
-Student Coordinator — Career Services Division, BITS Pilani Dubai
-
+### Student Coordinator — Career Services Division, BITS Pilani Dubai
 Sep 2024 – Present
 
-Managed data handling, process coordination, and stakeholder communication across 500+ students
+- Managed data handling, process coordination, and stakeholder communication across 500+ students
+- Served as a liaison between students and employer partners during recruitment activities
+- Supported employability workshops focused on analytical reasoning and professional readiness
+- Handled real-time operational issues while contributing to process optimisation
 
-Served as a liaison between students and employer partners during recruitment activities
-
-Supported employability workshops focused on analytical reasoning and professional readiness
-
-Handled real-time operational issues while contributing to process optimisation
-
-Core Team Member — Career Fair, BITS Pilani Dubai
-
+### Core Team Member — Career Fair, BITS Pilani Dubai
 Jan 2025 · Apr 2025 · Jan 2026
 
-Coordinated with 50+ recruiters and internal teams for career fair execution
+- Coordinated with 50+ recruiters and internal teams for career fair execution
+- Supported end-to-end event logistics and multi-stakeholder engagement
 
-Supported end-to-end event logistics and multi-stakeholder engagement
-
-PR Team Member — BITS Sports Festival (BSF 2024)
-
+### PR Team Member — BITS Sports Festival (BSF 2024)
 2024
 
-Tracked and analysed engagement data to evaluate outreach effectiveness
+- Tracked and analysed engagement data to evaluate outreach effectiveness
+- Supported communication and event execution under tight deadlines
 
-Supported communication and event execution under tight deadlines
+## Certifications
 
-Industry Exposure
+**Data Analytics & Business**
 
-ADIPEC
-Energy · Industrial Operations
+- Data Science & Analytics — HP LIFE
+- Business Communications — HP LIFE
+- Presenting Data — HP LIFE
+- Data Analytics Job Simulation — Deloitte · Forage
+- GenAI Powered Data Analytics Job Simulation — Tata · Forage
+- Data Visualisation: Empowering Business with Effective Insights — Tata · Forage
 
-Exposure to enterprise-scale business environments, energy-sector dynamics, and operational analytics through one of the world's largest industrial conferences.
+**Data, Excel & SQL**
 
-FUNC1 Dubai
-Professional Networking · Market Intelligence
+- Data Visualization in Excel — Macquarie University · Coursera
+- Excel Fundamentals for Data Analysis — Macquarie University · Coursera
+- Chat with Your Data: Generative AI-Powered SQL Data Analysis — Vanderbilt University · Coursera
+- Programming for Everybody (Getting Started with Python) — University of Michigan · Coursera
 
-Exposure to market expectations, hiring trends, career navigation, and professional positioning within the UAE analytics landscape.
+**Artificial Intelligence**
 
-Certifications
+- AI Foundations — OpenAI Academy
 
-Google Data Analytics Professional Certificate — Coursera
+## Currently Building
 
-Data Analytics Job Simulation — Deloitte · Forage
+- **E-Commerce Sales Dashboard** — Power BI · SQL
+- **Financial KPI Tracker** — SQL · Excel · Tableau
+- **GenAI + BA Pipeline** — Python · LLMs
 
-GenAI Powered Data Analytics Simulation — Tata · Forage
+## Industry Exposure
 
-Data Visualisation: Empowering Business — Tata · Forage
+- **ADIPEC** (Energy · Industrial Operations) — exposure to enterprise-scale business environments, energy-sector dynamics, and operational analytics
+- **FUNC1 Dubai** (Professional Networking · Market Intelligence) — exposure to market expectations, hiring trends, and professional positioning within the UAE analytics landscape
 
-Data Science & Analytics — HP
+## Beyond the Dashboard
 
-Business Communications — HP
+- Represented BITS Pilani at intercollegiate technology and entrepreneurship events
+- Participated in data challenges and innovation hackathons
 
-Introduction to Business Intelligence — Alison
+<br>
 
-Currently Building
+<div align="center">
 
-E-Commerce Sales Dashboard — Power BI · SQL
+## Let's Connect
 
-Financial KPI Tracker — SQL · Excel · Tableau
+Open to conversations about business analysis, data analytics, business intelligence, and AI-assisted analytics.
 
-GenAI + BA Pipeline — Python · LLMs
+[LinkedIn](https://www.linkedin.com/in/charviaditadas) · [Email](mailto:charviaditadas@gmail.com)
 
-Beyond the Dashboard
-
-Represented BITS Pilani at intercollegiate technology and entrepreneurship events
-
-Worked with real-time analytics involving 60,000+ records
-
-Contributed to three consecutive Career Fairs at BITS Pilani Dubai (2025–2026)
-
-Game Developer Certification — WhiteHat Jr
-
-Participated in data challenges and innovation hackathons
-
-Connect
-
-If you're interested in business analysis, data analytics, business intelligence, or AI-assisted analytics, feel free to connect.
-
-LinkedIn · Email
+</div>
