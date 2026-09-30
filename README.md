@@ -174,7 +174,7 @@ Research into how reliably face-verification models recognise the same person ac
 
 <table>
   <tr>
-    <td align="center" width="33%"><h2>9.82 / 10</h2><sub>CGPA, BITS Pilani Dubai Campus</sub></td>
+    <td align="center" width="33%"><h2>9.83 / 10</h2><sub>CGPA, BITS Pilani Dubai Campus</sub></td>
     <td align="center" width="33%"><h2>200K+</h2><sub>e-commerce behavioural events analysed</sub></td>
     <td align="center" width="33%"><h2>400K</h2><sub>review sentiment corpus</sub></td>
   </tr>
@@ -228,7 +228,7 @@ Research into how reliably face-verification models recognise the same person ac
 
 ## Education
 
-**B.E. Computer Science** — BITS Pilani Dubai Campus &nbsp;·&nbsp; Sep 2024 – Sep 2028 &nbsp;·&nbsp; CGPA 9.82 / 10
+**B.E. Computer Science** — BITS Pilani Dubai Campus &nbsp;·&nbsp; Sep 2024 – Sep 2028 &nbsp;·&nbsp; CGPA 9.83 / 10
 
 **CBSE Class 12** — Delhi Public School &nbsp;·&nbsp; 2024
 
