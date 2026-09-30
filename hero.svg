@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="hero-title hero-desc">
+  <title id="hero-title">Charvi Adita Das</title>
+  <desc id="hero-desc">Business Analysis, Data Analytics and Business Intelligence. I translate business problems into requirements, data and decisions, using analytics, BI and technology to improve how organisations work. Dubai, UAE, BITS Pilani Dubai Campus.</desc>
+
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#FFFFFF"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="1"/>
+    </linearGradient>
+    <mask id="fade-mask">
+      <rect x="760" y="0" width="440" height="420" fill="url(#fade)"/>
+    </mask>
+    <clipPath id="card">
+      <rect width="1200" height="420" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="420" fill="#0F1623"/>
+
+    <!-- dot field, fading in towards the right edge -->
+    <rect x="760" y="0" width="440" height="420" fill="url(#dots)" opacity="0.09" mask="url(#fade-mask)"/>
+
+    <!-- concentric rings -->
+    <g fill="none" stroke="#FFFFFF" stroke-opacity="0.08" stroke-width="1">
+      <circle cx="1000" cy="210" r="62"/>
+      <circle cx="1000" cy="210" r="116"/>
+      <circle cx="1000" cy="210" r="172"/>
+    </g>
+
+    <!-- three connected nodes: business, data, technology -->
+    <g stroke="#D9A441" stroke-opacity="0.45" stroke-width="1">
+      <line x1="1000" y1="94" x2="1100.5" y2="268"/>
+      <line x1="1100.5" y1="268" x2="899.5" y2="268"/>
+      <line x1="899.5" y1="268" x2="1000" y2="94"/>
+    </g>
+    <path d="M 1000 94 A 116 116 0 0 1 1100.5 268" fill="none" stroke="#D9A441" stroke-width="2"/>
+    <circle cx="1000" cy="94" r="5" fill="#D9A441"/>
+    <circle cx="1100.5" cy="268" r="5" fill="#F4F1EA"/>
+    <circle cx="899.5" cy="268" r="5" fill="#F4F1EA"/>
+    <circle cx="1000" cy="210" r="2.5" fill="#F4F1EA" fill-opacity="0.6"/>
+
+    <!-- text -->
+    <rect x="80" y="96" width="3" height="18" fill="#D9A441"/>
+    <text x="96" y="110" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="4" fill="#D9A441">BUSINESS × DATA × TECHNOLOGY</text>
+
+    <text x="78" y="192" font-family="Georgia, 'Times New Roman', serif" font-size="68" fill="#F4F1EA">Charvi Adita Das</text>
+
+    <text x="80" y="240" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="22" letter-spacing="0.3" fill="#C9D1DC">Business Analysis · Data Analytics · Business Intelligence</text>
+
+    <line x1="80" y1="268" x2="140" y2="268" stroke="#D9A441" stroke-width="2"/>
+
+    <text font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="19" fill="#9AA6B5">
+      <tspan x="80" y="308">I translate business problems into requirements, data and decisions —</tspan>
+      <tspan x="80" y="336">using analytics, BI and technology to improve how organisations work.</tspan>
+    </text>
+
+    <text x="80" y="374" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="3" fill="#7D8898">DUBAI, UAE  ·  BITS PILANI DUBAI CAMPUS</text>
+  </g>
+</svg>

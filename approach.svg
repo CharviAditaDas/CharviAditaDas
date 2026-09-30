@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="approach-title approach-desc">
+  <title id="approach-title">How I approach problems</title>
+  <desc id="approach-desc">Five steps: 01 Problem, understand the business question. 02 Requirements, translate it into clear requirements. 03 Data, structure the relevant data. 04 Analysis, analyse the underlying drivers. 05 Decision, turn findings into decisions and solutions.</desc>
+
+  <style>
+    .bg    { fill: #F6F5F1; }
+    .card  { fill: #FFFFFF; stroke: #E2DFD8; }
+    .final { fill: #FFFFFF; stroke: #B07D1E; }
+    .num   { fill: #B07D1E; }
+    .rule  { stroke: #B07D1E; }
+    .label { fill: #141B26; }
+    .desc  { fill: #5B6573; }
+    .arrow { stroke: #B3AEA4; fill: none; }
+    .head  { fill: #B3AEA4; }
+    @media (prefers-color-scheme: dark) {
+      .bg    { fill: #0F1623; }
+      .card  { fill: #161F2E; stroke: #27324A; }
+      .final { fill: #161F2E; stroke: #D9A441; }
+      .num   { fill: #D9A441; }
+      .rule  { stroke: #D9A441; }
+      .label { fill: #F1EEE7; }
+      .desc  { fill: #98A3B3; }
+      .arrow { stroke: #44516B; }
+      .head  { fill: #44516B; }
+    }
+    text { font-family: 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; }
+    .num   { font-size: 14px; font-weight: 600; letter-spacing: 2px; }
+    .label { font-size: 18px; font-weight: 700; letter-spacing: 1px; }
+    .desc  { font-size: 16px; }
+  </style>
+
+  <rect class="bg" width="1200" height="230" rx="16"/>
+
+  <!-- 01 -->
+  <rect class="card" x="30" y="26" width="205" height="178" rx="10" stroke-width="1"/>
+  <text class="num" x="50" y="64">01</text>
+  <line class="rule" x1="50" y1="78" x2="76" y2="78" stroke-width="2"/>
+  <text class="label" x="50" y="112">PROBLEM</text>
+  <text class="desc"><tspan x="50" y="146">Understand the</tspan><tspan x="50" y="168">business question</tspan></text>
+
+  <!-- 02 -->
+  <rect class="card" x="263" y="26" width="205" height="178" rx="10" stroke-width="1"/>
+  <text class="num" x="283" y="64">02</text>
+  <line class="rule" x1="283" y1="78" x2="309" y2="78" stroke-width="2"/>
+  <text class="label" x="283" y="112">REQUIREMENTS</text>
+  <text class="desc"><tspan x="283" y="146">Translate it into</tspan><tspan x="283" y="168">clear requirements</tspan></text>
+
+  <!-- 03 -->
+  <rect class="card" x="496" y="26" width="205" height="178" rx="10" stroke-width="1"/>
+  <text class="num" x="516" y="64">03</text>
+  <line class="rule" x1="516" y1="78" x2="542" y2="78" stroke-width="2"/>
+  <text class="label" x="516" y="112">DATA</text>
+  <text class="desc"><tspan x="516" y="146">Structure the</tspan><tspan x="516" y="168">relevant data</tspan></text>
+
+  <!-- 04 -->
+  <rect class="card" x="729" y="26" width="205" height="178" rx="10" stroke-width="1"/>
+  <text class="num" x="749" y="64">04</text>
+  <line class="rule" x1="749" y1="78" x2="775" y2="78" stroke-width="2"/>
+  <text class="label" x="749" y="112">ANALYSIS</text>
+  <text class="desc"><tspan x="749" y="146">Analyse the</tspan><tspan x="749" y="168">underlying drivers</tspan></text>
+
+  <!-- 05 -->
+  <rect class="final" x="962" y="26" width="205" height="178" rx="10" stroke-width="1.5"/>
+  <text class="num" x="982" y="64">05</text>
+  <line class="rule" x1="982" y1="78" x2="1008" y2="78" stroke-width="2"/>
+  <text class="label" x="982" y="112">DECISION</text>
+  <text class="desc"><tspan x="982" y="146">Turn findings into</tspan><tspan x="982" y="168">decisions &amp; solutions</tspan></text>
+
+  <!-- connectors -->
+  <g stroke-width="1.5">
+    <line class="arrow" x1="240" y1="115" x2="252" y2="115"/>
+    <line class="arrow" x1="473" y1="115" x2="485" y2="115"/>
+    <line class="arrow" x1="706" y1="115" x2="718" y2="115"/>
+    <line class="arrow" x1="939" y1="115" x2="951" y2="115"/>
+  </g>
+  <path class="head" d="M 252 110 L 259 115 L 252 120 Z"/>
+  <path class="head" d="M 485 110 L 492 115 L 485 120 Z"/>
+  <path class="head" d="M 718 110 L 725 115 L 718 120 Z"/>
+  <path class="head" d="M 951 110 L 958 115 L 951 120 Z"/>
+</svg>
